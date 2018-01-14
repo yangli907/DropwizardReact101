@@ -1,0 +1,49 @@
+# react
+.DS_STORE
+node_modules
+*~
+*.pyc
+.grunt
+_SpecRunner.html
+__benchmarks__
+build/
+remote-repo/
+coverage/
+flow-coverage/
+.module-cache
+fixtures/dom/public/react-dom.js
+fixtures/dom/public/react.js
+test/the-files-to-test.generated.js
+*.log*
+chrome-user-data
+*.sublime-project
+*.sublime-workspace
+.idea
+*.iml
+.vscode
+*.swp
+*.swo
+
+# dropwizard & ide
+# Maven
+target/
+dependency-reduced-pom.xml
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+nb-configuration.xml
+atlassian-ide-plugin.xml
+
+logs

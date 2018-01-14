@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/jooq/jooq/3.9.1/jooq-3.9.1.jar!/org/jooq/Configuration.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/jooq/jooq/3.9.1/jooq-3.9.1.jar!/org/jooq/impl/DSL.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/application-to-service-dependencies/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/audit-service/audit-svc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/audit-service/audit-svc/src/main/resources/common.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/audit-service/audit-svc/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/audit-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/auth-service/auth-svc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/auth-service/auth-svc/src/main/resources/common.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/auth-service/auth-svc/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/auth-service/docker/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/auth-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/base-supply-platform/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/base-supply-platform/docker/entryPoint.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/base-supply-platform/docker/files/container-setup.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/media-service/media-svc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/media-service/media-svc/src/main/resources/common.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/media-service/media-svc/target/classes/common.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/media-service/media-svc/target/media-svc/WEB-INF/classes/common.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/media-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/definition/DescriptionDef.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/definition/ItineraryDef.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/definition/ProductDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/definition/TravelerRequirementsDef.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/specification/specv2/TraitAppliers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/specification/specv2/TraitEngine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/specification/specv2/TraitName.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/specification/specv2/TraitValidators.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/specification/specv2/traits/ItineraryTrait.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/specification/specv2/traits/LiabilityInsuranceTrait.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/specification/specv2/traits/ProductTraitListProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/specification/specv2/traits/SimpleDescriptionTrait.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/specification/specv2/traits/ThemeTrait.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/specification/specv2/traits/Trait.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/validation/annotation/ValidDescriptionFields.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/validation/group/ValidationGroups.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/validation/json/ValidationClassEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/validation/json/ValidationClassJson.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/validation/json/ValidationConfigJson.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/main/java/com/viator/supply/model/product/validation/json/ValidationSchemaGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/test/java/com/viator/supply/model/product/specification/specv2/AbstractTraitEngineTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/test/java/com/viator/supply/model/product/specification/specv2/TraitEngineDriverTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/test/java/com/viator/supply/model/product/specification/specv2/TraitGeneratorEngineTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/test/java/com/viator/supply/model/product/specification/specv2/traits/ProductTraitListProviderTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/src/test/java/com/viator/supply/model/product/validation/HibernateValidatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-model/target/generated-sources/annotations/com/viator/supply/model/product/definition/ImmutableProductDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-service/docker/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-service/product-schema/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-service/product-svc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-service/product-svc/src/main/resources/common.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/product-service/product-svc/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/service-to-service-dependencies/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/skeleton-service/docker/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/skeleton-service/skeleton-svc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/skeleton-service/skeleton-svc/src/main/resources/common.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/skeleton-service/skeleton-svc/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/config/InfluxLoggingWebFeignClientProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/config/WebModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/monitoring/InfluxWebRequestLoggingFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/monitoring/JavaScriptError.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/monitoring/PagePerformance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/ribbon/package-info.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/security/CsrfMeasure.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/session/Session.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/session/SessionBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/session/SessionConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/session/SessionEditorImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/session/SessionListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/session/SessionProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/session/impl/HTTPSessionManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/session/impl/SessionManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/session/impl/SessionMarshaller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/session/listener/VisitInitialiser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/session/model/SessionEditor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/session/model/SessionFacet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/main/java/com/viator/supply/web/session/model/Visit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/test/java/com/viator/supply/web/session/SessionMarshallerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/test/java/com/viator/supply/web/session/TestSession.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/test/java/com/viator/supply/web/session/impl/HTTPSessionManagerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/test/java/com/viator/supply/web/session/impl/SessionManagerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/test/java/com/viator/supply/web/session/impl/SessionMarshallerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/test/java/com/viator/supply/web/session/impl/TestFacet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/test/java/com/viator/supply/web/session/impl/TestSession.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supplier-centre/src/test/java/com/viator/supply/web/session/impl/VisitInitialiserTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supply-common/common-service/src/main/java/com/viator/supply/common/config/ServiceResourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supply-common/common-service/src/main/java/com/viator/supply/common/monitoring/InfluxServiceAndHttpMonitoringPoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supply-common/common-service/src/main/java/com/viator/supply/common/monitoring/InfluxServiceMonitoringPoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supply-common/common-shared/src/main/java/com/viator/supply/common/shared/influx/InfluxData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supply-common/common-shared/src/main/java/com/viator/supply/common/shared/influx/InfluxRecorder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supply-common/common-shared/src/test/java/com/viator/supply/common/shared/integration/influx/InfluxRecorderTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supply-common/common-test/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supply-common/common-test/src/main/java/com/viator/supply/common/test/ServerInstance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supply-common/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supply-tasks/docker/taskEntryPoint.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supply-tasks/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supply-tasks/readme.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supply-tasks/taskrunner/src/main/java/com/viator/supply/taskrunner/application/TaskRunnerModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/supply-tasks/taskrunner/src/main/java/com/viator/supply/taskrunner/application/config/DefaultFeignClientProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/sync-service/sync-schema/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/sync-service/sync-svc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/sync-service/sync-svc/src/main/resources/common.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/sync-service/sync-svc/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/user-service/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/user-service/docker/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/user-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/user-service/user-api/src/main/java/com/viator/supply/service/user/api/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/user-service/user-schema/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/user-service/user-svc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/user-service/user-svc/src/main/java/com/viator/supply/service/user/controller/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/user-service/user-svc/src/main/resources/common.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/code/supply-platform/user-service/user-svc/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/dependency-reduced-pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/main.bundle.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/node_modules/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/skeleton.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/generated-sources/jooq/com/yangli907/phome/model/Keys.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/generated-sources/jooq/com/yangli907/phome/model/tables/Photographer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/AppModule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/DSLContextProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/api/PhotographerApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/api/PhotographerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/api/ReviewApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/config/AppConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/controller/HomeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/controller/PhotographerConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/controller/PhotographerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/controller/ReviewController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/dao/PhotographerDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/dao/PhotographerRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/dao/ReviewDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/dao/ReviewRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/model/Photographer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/yangli907/phome/model/Review.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/generated-sources/jooq/com/yangli907/phome/model/generated/DefaultCatalog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/config/appConfig.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/js/app.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/js/client.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/schema/photographer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/static/app.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/static/main.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/templates/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/yangli907/phome/JooqTestApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/classes/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/classes/js/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/classes/schema/photographer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/classes/templates/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/generated-sources/jooq/com/yangli907/phome/model/generated/Indexes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/generated-sources/jooq/com/yangli907/phome/model/generated/Keys.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/generated-sources/jooq/com/yangli907/phome/model/generated/Phollow.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/generated-sources/jooq/com/yangli907/phome/model/generated/tables/records/PhotographerRecord.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/generated-sources/jooq/org/jooq/util/maven/example/DefaultCatalog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/generated-sources/jooq/org/jooq/util/maven/example/Indexes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/generated-sources/jooq/org/jooq/util/maven/example/Keys.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/generated-sources/jooq/org/jooq/util/maven/example/Phollow.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/generated-sources/jooq/org/jooq/util/maven/example/Tables.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/generated-sources/jooq/org/jooq/util/maven/example/enums/PhotographerCategory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/generated-sources/jooq/org/jooq/util/maven/example/tables/Photographer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/generated-sources/jooq/org/jooq/util/maven/example/tables/records/PhotographerRecord.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/webpack.config.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
