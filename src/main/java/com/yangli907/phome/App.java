@@ -33,7 +33,7 @@ public class App extends Application<AppConfiguration>
             }
         });
 
-        bootstrap.addBundle(new AssetsBundle("/assets", "/index", "index.html"));
+        bootstrap.addBundle(new AssetsBundle("/assets", "/", "index.html"));
     }
 
     @Override

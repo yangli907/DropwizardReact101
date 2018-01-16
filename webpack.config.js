@@ -1,10 +1,12 @@
+const path = require('path');
+
 module.exports = {
-    context: `${__dirname}/`,
-    entry: 'app.js',
+    //context: `${__dirname}`,
+    entry: './src/app.js',
     output: {
         filename: '[name].bundle.js',
-        path: __dirname,
-        publicPath: __dirname
+        path: `${__dirname}` + "/src/main/resources/assets",
+        publicPath: '/assets/'
     },
     module: {
         loaders: [
@@ -17,6 +19,12 @@ module.exports = {
                     }
             }
         ],
+    },
+    resolve: {
+        extensions: ['.js'],
+        alias: {
+            components: path.resolve(__dirname, '..', 'src/'),
+        }
     },
     resolveLoader: {
         modules: [

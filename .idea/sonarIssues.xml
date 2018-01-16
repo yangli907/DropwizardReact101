@@ -578,6 +578,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/dist/main.bundle.js">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/main.bundle.js">
           <value>
             <set />
@@ -599,6 +604,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/skeleton.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/app.js">
           <value>
             <set />
           </value>
@@ -708,7 +718,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/assets/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/config/appConfig.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/js/app.js">
           <value>
             <set />
           </value>
@@ -748,7 +773,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/target/assets/main.bundle.js">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/target/classes/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/classes/assets/index.html">
           <value>
             <set />
           </value>
